@@ -1,0 +1,23 @@
+# Raw competition data is shared through Google Drive.
+data/*.csv
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Local environments
+.venv/
+venv/
+env/
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+*.tmp
+*.log
+
